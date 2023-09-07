@@ -1,1 +1,4 @@
-console.log("hola beibi");
+const aber = "27 años"
+
+
+console.log("tengo" +aber  );
